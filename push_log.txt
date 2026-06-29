@@ -1,0 +1,9 @@
+Move-Item : The process cannot access the file because it is being used by another process.
+At line:1 char:1
++ Move-Item -Path 'C:\Users\ASUS\Downloads\Netflixclone' -Destination ' ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (C:\Users\ASUS\Downloads\Netflixclone:DirectoryInfo) [Mov 
+   e-Item], IOException
+    + FullyQualifiedErrorId : MoveDirectoryItemIOError,Microsoft.PowerShell.Commands.MoveItemComman 
+   d
+ 
